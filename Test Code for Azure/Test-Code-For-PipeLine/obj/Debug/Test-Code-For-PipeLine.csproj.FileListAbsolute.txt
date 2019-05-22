@@ -1,0 +1,7 @@
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\bin\Debug\Test-Code-For-PipeLine.exe.config
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\bin\Debug\Test-Code-For-PipeLine.exe
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\bin\Debug\Test-Code-For-PipeLine.pdb
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\obj\Debug\Test-Code-For-PipeLine.csprojAssemblyReference.cache
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\obj\Debug\Test-Code-For-PipeLine.csproj.CoreCompileInputs.cache
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\obj\Debug\Test-Code-For-PipeLine.exe
+C:\Users\llosing8885\Desktop\Test Code for Azure\Test-Code-For-PipeLine\obj\Debug\Test-Code-For-PipeLine.pdb
